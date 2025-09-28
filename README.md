@@ -72,4 +72,3 @@ following **best practices and clean code**.
 - **Spanish**: Native  
 - **English**: C1 (EF SET 61) – [Official Certificate](https://cert.efset.org/en/xwizHG)  
 
----
