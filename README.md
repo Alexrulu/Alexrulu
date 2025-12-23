@@ -63,7 +63,7 @@ following **best practices and clean code**.
 
 - **Universidad Nacional de General Sarmiento** – Associate Degree in Computer Science *(March 2024 – Present)*  
 - **Digital House + FORMAR** – Full Stack Web Developer *(September 2024 – May 2025)*  
-- **Digital House + ForIt** – Advanced Full Stack Web Developer *(May 2025 – August 2025)*  
+- **ForIt Academy** – Advanced Full Stack Web Developer *(May 2025 – August 2025)*  
 
 ---
 
